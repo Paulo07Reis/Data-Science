@@ -1,5 +1,3 @@
-# Matemática para Data Science: construindo a base
-
 ## Fração
 
 $$
